@@ -58,18 +58,7 @@
   ```
 - Save and exit: `CTRL + X`, then `Y`, and `Enter`.
 
-## 5. **Clone the Work Repository**
-
-- Navigate to the folder where you want to clone the repo:
-  ```bash
-  cd "<YOUR_LOCAL_FOLDER_FOR_REPOS_PATH>"
-  ```
-- Clone the repository using the work GitHub configuration:
-  ```bash
-  git clone <THE_REPO_YOU_WANT_TO_CLONE.GIT>
-  ```
-
-## 6. **Verify SSH Authentication**
+## 5. **Verify SSH Authentication**
 
 - Test the connection:
   ```bash
@@ -80,3 +69,13 @@
   Hi username! You've successfully authenticated, but GitHub does not provide shell access.
   ```
 
+## 6. **Clone the Work Repository**
+
+- Navigate to the folder where you want to clone the repo:
+  ```bash
+  cd "<YOUR_LOCAL_FOLDER_FOR_REPOS_PATH>"
+  ```
+- Clone the repository using the work GitHub configuration:
+  ```bash
+  git clone <THE_REPO_YOU_WANT_TO_CLONE.GIT>
+  ```
